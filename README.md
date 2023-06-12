@@ -7,5 +7,5 @@
 Coming soon…
 
 
-# 欢迎关注
-https://github.com/baoxueyuan/DeepFake
+# 其他
+欢迎关注 https://github.com/baoxueyuan/DeepFake
